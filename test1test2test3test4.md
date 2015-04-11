@@ -9,7 +9,7 @@ int main(){
 
 
 
- MaxSum:   
+    
 #include <iostream>
 
  
@@ -74,7 +74,6 @@ return 0;
 
 
 
-Reverse Word:
 #include <iostream>
 
 #include <cstring>
@@ -191,7 +190,7 @@ return 0;
 
 
 
-Form1.cs:
+
 using System;
 
 usingSystem.Collections.Generic;
